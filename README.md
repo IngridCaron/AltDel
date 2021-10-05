@@ -5,6 +5,7 @@ Hi
 
 What I'm doing right now:
 Learning MySQL db
+
 Making a custom CDN thing where I use my redundant servers for something useful.
 Rest apis using Spring
 
